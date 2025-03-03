@@ -1,0 +1,4 @@
+repository "Platform Game@Ficowsky@cloud"
+  path "/"
+    br "/main"
+    co "/main"
